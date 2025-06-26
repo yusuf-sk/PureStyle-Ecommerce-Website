@@ -1,0 +1,13 @@
+.placeholder-transition::placeholder {
+  transition: transform 0.4s ease, opacity 0.4s ease;
+}
+
+.slide-in::placeholder {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.slide-out::placeholder {
+  opacity: 0;
+  transform: translateY(10px);
+}
