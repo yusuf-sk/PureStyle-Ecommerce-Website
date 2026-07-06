@@ -1,34 +1,28 @@
 # 🛍️ PureStyle – Lifestyle E-Commerce Website
 
-**PureStyle** is a fully responsive, feature-rich lifestyle e-commerce platform built with **React** and **Tailwind CSS**. It offers a smooth shopping experience, from browsing products to placing orders securely.
+**PureStyle** is a fully responsive lifestyle e-commerce website built with **React** and **Tailwind CSS**. It showcases a modern online shopping experience with an intuitive interface, smooth navigation, and responsive design across all devices.
 
-🔗 **Live Demo**: [purestyle-ecommerce.netlify.app](https://purestyle-ecommerce.netlify.app/)
-
+**Live Demo**: [purestyle-ecommerce.netlify.app](https://purestyle-ecommerce.netlify.app/)
 ---
 
 ## ✨ Key Features
 
-- **300+ Lifestyle Products** – Fashion, footwear, accessories, and more.
-- **Real-Time Search** – Find products by name or brand instantly.
-- **Filters by Category & Brand** – Men, Women, Kids, Footwear.
-- **Wishlist Functionality** – Save your favorite items.
-- **Product Reviews** – Comment section on each product.
-- **Flash Sales & Trending Items** – Highlighted collections.
-- **Order Summary Page** – View complete order before checkout.
-- **Secure Payment Integration** – Payment gateway added for real checkout simulation.
-- **Login / Signup System** – User authentication with context.
-- **Responsive UI** – Works seamlessly across all devices.
-- **Modern Animations** – Smooth transitions using Framer Motion.
-- **Purple-Themed UI** – Clean and consistent design.
+* 🎨 **Modern & Responsive UI** – Optimized for desktop, tablet, and mobile devices.
+* 🛍️ **Lifestyle Product Catalog** – Browse fashion, footwear, accessories, and more.
+* 🔍 **Product Search** – Quickly find products using the search bar.
+* 🏷️ **Category-Based Browsing** – Explore products by category.
+* 📄 **Product Detail Pages** – View product information, pricing, and images.
+* ⭐ **Featured & Trending Sections** – Highlight popular collections on the homepage.
+* 🎭 **Smooth Animations** – Interactive transitions powered by Framer Motion.
+* 🎨 **Consistent Purple Theme** – Clean, visually appealing, and user-friendly interface.
+* ⚡ **Fast Navigation** – Single-page application experience using React Router.
+* 🧩 **Reusable Components** – Modular component structure for easier maintenance.
 
 ---
 
 ## ⚙️ Technologies Used
 
-- **React.js + Vite**
-- **Tailwind CSS**
-- **React Router DOM**
-- **Context API**
-- **Framer Motion**
-- **Netlify** (for deployment)
-
+* **React.js + Vite**
+* **Tailwind CSS**
+* **React Router DOM**
+* **Netlify** (Deployment)
